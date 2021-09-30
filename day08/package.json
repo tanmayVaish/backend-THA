@@ -1,12 +1,12 @@
 {
-  "name": "day-8",
+  "name": "day08",
   "version": "1.0.0",
   "description": "middleware practice",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "goblin",
+  "author": "Tanmay",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"

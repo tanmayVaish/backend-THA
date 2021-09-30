@@ -1,0 +1,12 @@
+{
+  "name": "day06",
+  "version": "1.0.0",
+  "description": "day06 hi hai",
+  "main": "index.js",
+  "scripts": {
+    "test": "TEST KAR LO"
+  },
+  "keywords": [],
+  "author": "Tanmay",
+  "license": "ICSE"
+}
